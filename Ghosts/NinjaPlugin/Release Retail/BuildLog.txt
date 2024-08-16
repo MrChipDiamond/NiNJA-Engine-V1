@@ -1,0 +1,19 @@
+﻿  360D3D.cpp
+  BlopsMenu.cpp
+  Detour.cpp
+  GeoLocationParser.cpp
+  Ghosts.cpp
+  Globals.cpp
+  HttpRequest.cpp
+  HvPeekPoke.cpp
+  launch.cpp
+  MemoryManager.cpp
+  Menu.cpp
+  NiNJA_Plugin.cpp
+  SecureStrings.cpp
+  stdafx.cpp
+  TitleSpecificHooks.cpp
+  Utilities.cpp
+  XBLSMsgr.cpp
+  Generating code
+  Finished generating code

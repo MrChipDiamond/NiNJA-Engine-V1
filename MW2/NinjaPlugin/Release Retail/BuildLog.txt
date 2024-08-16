@@ -1,0 +1,42 @@
+﻿  360D3D.cpp
+  BlopsMenu.cpp
+  Detour.cpp
+  GeoLocationParser.cpp
+  HttpRequest.cpp
+  MemoryManager.cpp
+  Menu.cpp
+  Mw2.cpp
+  Globals.cpp
+  HvPeekPoke.cpp
+  launch.cpp
+  NiNJA_Plugin.cpp
+  SecureStrings.cpp
+  stdafx.cpp
+  TitleSpecificHooks.cpp
+  Utilities.cpp
+  XBLSMsgr.cpp
+  Generating code
+  Finished generating code
+  XexTool v6.3  -  xorloser 2006-2011 (Build Fri Oct 14 16:31:54 2011)
+  Reading and parsing input xex file...
+  Creating and writing output xex file...
+  Successfully wrote altered xex to C:\Users\Silent2\Desktop\silent\NiNJA_COD_ENGINE\NiNJA_COD_ENGINE\MW2\NinjaPlugin\Release Retail\MW2.ENGINE.xex
+  
+  C:\Users\Silent2\Desktop\silent\NiNJA_COD_ENGINE\NiNJA_COD_ENGINE\MW2\NinjaPlugin\Release Retail\MW2.ENGINE.xex is devkit unencrypted binary.
+  XexTool v6.3  -  xorloser 2006-2011 (Build Fri Oct 14 16:31:54 2011)
+  Reading and parsing input xex file...
+  Creating and writing output xex file...
+  Successfully wrote altered xex to C:\Users\Silent2\Desktop\silent\NiNJA_COD_ENGINE\NiNJA_COD_ENGINE\MW2\NinjaPlugin\Release Retail\MW2.ENGINE.xex
+  
+  C:\Users\Silent2\Desktop\silent\NiNJA_COD_ENGINE\NiNJA_COD_ENGINE\MW2\NinjaPlugin\Release Retail\MW2.ENGINE.xex is devkit encrypted compressed.
+  Read 237568 bytes from file!
+  
+  cryptStrings: Browsing for strings... 
+  Encrypted 0 strings
+  XexTool v6.3  -  xorloser 2006-2011 (Build Fri Oct 14 16:31:54 2011)
+  Reading and parsing input xex file...
+  Creating and writing output xex file...
+  Successfully wrote altered xex to C:\Users\Silent2\Desktop\silent\NiNJA_COD_ENGINE\NiNJA_COD_ENGINE\MW2\NinjaPlugin\Release Retail\MW2.ENGINE.xex_base
+  
+  C:\Users\Silent2\Desktop\silent\NiNJA_COD_ENGINE\NiNJA_COD_ENGINE\MW2\NinjaPlugin\Release Retail\MW2.ENGINE.xex_base is devkit unencrypted binary.
+  Dumping .text
